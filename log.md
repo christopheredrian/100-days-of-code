@@ -1,17 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** 
-1. [Calculator App](http://www.example.com)
-2. [Calculator App](http://www.example.com)
-
-### Day 1: June 12, 2017 Thursday
+### Day 1: January 12, 2017 Thursday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp. Finished the HTML5 and CSS, Responsive design with Bootstrap and jQuery
 
@@ -19,4 +8,13 @@
 
 **Link(s) to work**
 
+### Day 2: January 13, 2017 Friday
+
+**Today's Progress**: I've gone through what I can finish today. Starting with the two assigned webpages - tribute page and portfolio page. After that I've also finished the Basic JavaScript.
+
+**Thoughts**: Today's a tough day I've coded the whole day to finishe the two sites. I opted to end the day but I still want to learn some more so I also finished the Basic JavaScript tasks in FCC.
+
+**Link(s) to work**
+1. [Tribute to Dr. Jose Rizal](http://codepen.io/christopheredrian/full/bgpXOM/)
+2. [Portfolio](http://codepen.io/christopheredrian/full/Bpzyer/)
 
