@@ -15,6 +15,7 @@
 **Thoughts**: Today's a tough day I've coded the whole day to finishe the two sites. I opted to end the day but I still want to learn some more so I also finished the Basic JavaScript tasks in FCC.
 
 **Link(s) to work**
+
 1. [Tribute to Dr. Jose Rizal](http://codepen.io/christopheredrian/full/bgpXOM/)
 2. [Portfolio](http://codepen.io/christopheredrian/full/Bpzyer/)
 
