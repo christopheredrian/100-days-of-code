@@ -19,3 +19,10 @@
 1. [Tribute to Dr. Jose Rizal](http://codepen.io/christopheredrian/full/bgpXOM/)
 2. [Portfolio](http://codepen.io/christopheredrian/full/Bpzyer/)
 
+### Day 3: January 14, 2017 Saturday
+
+**Today's Progress**: Finished OOP programming, Basic algorithms, and JSON and API's. 
+
+**Thoughts**: Algorithms are hard, but immersing my self with them resulted in finishing the requirements. In addition to the lessons I also expanded my knowledge of regular expressions using external tutorials.
+
+
