@@ -26,3 +26,13 @@
 **Thoughts**: Algorithms are hard, but immersing my self with them resulted in finishing the requirements. In addition to the lessons I also expanded my knowledge of regular expressions using external tutorials.
 
 
+### Day 4: January 13, 2017 Sunday
+
+**Today's Progress**: Today's a relatively hard, but I managed to finish two of the projects - Quotes and the Weather app.
+
+**Thoughts**: The challeges today is finding and using json APIs. Especially with the weather app since the navigator.getCurrentPos has been deprecated by chrome. This resulted to having to call two api's one for the location and one for the weather. It was hard but I still managed to finish it today with additional functionalities more than what was asked for.
+
+**Link(s) to work**
+
+1. [Programmig Quotes](http://codepen.io/christopheredrian/full/RKGwbB/)
+2. [Weather App](http://codepen.io/christopheredrian/full/QdKbQY/)
