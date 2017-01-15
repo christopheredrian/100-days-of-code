@@ -26,7 +26,7 @@
 **Thoughts**: Algorithms are hard, but immersing my self with them resulted in finishing the requirements. In addition to the lessons I also expanded my knowledge of regular expressions using external tutorials.
 
 
-### Day 4: January 13, 2017 Sunday
+### Day 4: January 15, 2017 Sunday
 
 **Today's Progress**: Today's a relatively hard, but I managed to finish two of the projects - Quotes and the Weather app.
 
