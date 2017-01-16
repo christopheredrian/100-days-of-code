@@ -36,3 +36,13 @@
 
 1. [Programmig Quotes](http://codepen.io/christopheredrian/full/RKGwbB/)
 2. [Weather App](http://codepen.io/christopheredrian/full/QdKbQY/)
+
+### Day 4: January 16, 2017 Monday
+
+**Today's Progress**: Finished with a functional wiki viewer application. Hopefully I'll be able to animate it in the future
+**Thoughts**: The challenges for today was finding the right URL to use on my ajax queries after finding that the functional requirements of my app was practically done. Now after finishing those I managed to use @bassjobsen's typeahead to have a functional autocomplete feature
+
+**Link(s) to work**
+
+1. [Wikipedia Viewer](http://codepen.io/christopheredrian/full/WRGOBx/)
+
