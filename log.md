@@ -46,3 +46,11 @@
 
 1. [Wikipedia Viewer](http://codepen.io/christopheredrian/full/WRGOBx/)
 
+### Day 6: January 17, 2017 Tuesday
+
+**Today's Progress**: Twitch TV JSON API and three of the intermediate algorithms in FCC
+**Thoughts**: My progress was delayed for two hours because codepen.io's server was down. But when the server was up again I finally finished the Twitch TV viewer.
+
+**Link(s) to work**
+
+1. [TwitchTV JSON API](http://codepen.io/christopheredrian/full/apBONe/)
