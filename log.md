@@ -1,3 +1,5 @@
+
+
 # 100 Days Of Code - Log
 
 ### Day 1: January 12, 2017 Thursday
@@ -54,3 +56,11 @@
 **Link(s) to work**
 
 1. [TwitchTV JSON API](http://codepen.io/christopheredrian/full/apBONe/)
+
+### Day 7: January 18, 2017 Tuesday
+
+**Today's Progress**: I opted to finish all of the intermediate challenges but failed because of one challenge.I'll try it again tomorrow, that's for sure.
+
+
+**Thoughts**: Today I think was the most rough day so far. This is gonna be short. I need some rest
+
