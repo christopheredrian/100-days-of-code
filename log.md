@@ -57,10 +57,32 @@
 
 1. [TwitchTV JSON API](http://codepen.io/christopheredrian/full/apBONe/)
 
-### Day 7: January 18, 2017 Tuesday
+### Day 7: January 18, 2017 Wednesday
 
 **Today's Progress**: I opted to finish all of the intermediate challenges but failed because of one challenge.I'll try it again tomorrow, that's for sure.
 
 
 **Thoughts**: Today I think was the most rough day so far. This is gonna be short. I need some rest
+
+### Day 8: January 19, 2017 Thursday
+
+**Today's Progress**: Finished with the intermediate algorithms and one of the advance algorithms. I skipped the US telephone regex, wanna try it again tomorrow
+
+
+**Thoughts**: I spent a lot of hours trying to figure out how to solve the US tel number problem, but failed to do so today. 
+
+### Day 9: January 20, 2017 Friday
+
+**Today's Progress**: Finally figured out how to solve the telephone problem!
+
+
+**Thoughts**: Today was a tough day. This day I really gained experience in using regular expressions. This day is really uplifting, I thought of calling it a day but tried it once more and it worked!
+
+### Day 10: January 21, 2017 Saturday
+
+**Today's Progress**: Finished with the Symmetric difference problem.
+
+
+**Thoughts**: I started my first semester this week, that's why my progress began slowing down @freecodecamp. But still managed to have an hour or more a day of dedication for coding.
+
 
